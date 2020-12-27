@@ -8,6 +8,7 @@ Hi, I'm Davi Santos Rocha, a passionate Full Stack Web Developer 🚀 from Brazi
 - 👯 I’m looking to collaborate on open source community
 - 💬 Ask me about anything about software development
 - 📫 How to reach me: [davisantosr](https://www.linkedin.com/in/davisantosr/)
+- :octocat: My old account [davisantosrocha](https://github.com/davisantosrocha) is no longer used.
 
 <!--
 **davisantosr/davisantosr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
