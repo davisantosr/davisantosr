@@ -5,7 +5,7 @@ Hi, I'm Davi Santos Rocha, a passionate Full Stack Web Developer 🚀 from Brazi
 
 - 🔭 I’m currently working on awesome stuff
 - 🌱 I’m constantly learning 
-- 👯 I’m looking to collaborate on open source community
+- 👯 This year i will looking to collaborate on open source community
 - 💬 Ask me about anything about software development
 - 📫 How to reach me: [davisantosr](https://www.linkedin.com/in/davisantosr/)
 - :octocat: :zzz: My old account [davisantosrocha](https://github.com/davisantosrocha) is no longer used.
