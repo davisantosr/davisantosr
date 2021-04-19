@@ -1,7 +1,7 @@
 
 ## Hi, I'm Davi. 😄
 - :computer: Software Developer.
-- 💬 Ask me about anything about software development we can learn together.
+- 💬 Ask me anything about software development we can learn together.
 - 📫 How to reach me: [davisantosr](https://www.linkedin.com/in/davisantosr/)
 - :octocat: :zzz: My old account [davisantosrocha](https://github.com/davisantosrocha) is no longer used.
 
