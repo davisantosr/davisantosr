@@ -1,9 +1,9 @@
 
 ## Hi, I'm Davi. 😄
 - :computer: Software Developer.
-- 💬 Ask me anything about software development we can learn together.
+- 💬 Ask me anything about software development, we can learn together.
 - 📫 How to reach me: [davisantosr](https://www.linkedin.com/in/davisantosr/)
-- :octocat: :zzz: My old account [davisantosrocha](https://github.com/davisantosrocha) is no longer used.
+- :octocat: :zzz: My old account [davisantosrocha](https://github.com/davisantosrocha).
 
 <!--
 **davisantosr/davisantosr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
