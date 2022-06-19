@@ -1,6 +1,6 @@
 
 ## Hi, I'm Davi. 😄
-- :computer: Software Engineer.
+- :computer: Software Developer.
 - 💬 Ask me anything about software development, we can learn together.
 - 📫 How to reach me: [davisantosr](https://www.linkedin.com/in/davisantosr/)
 - :octocat: My secondary account [davisantosrocha](https://github.com/davisantosrocha).
